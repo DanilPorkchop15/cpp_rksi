@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int qwqqq()
+int main()
 {   
     double x = -4.5, y = -.75e-4, z = -0.845e2;
     double first = cbrt(9. + pow(x - y, 2)) / (pow(x, 2) + pow(y, 2)  + 2.) ;
